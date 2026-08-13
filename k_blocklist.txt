@@ -1,3 +1,4 @@
 [Adblock Plus 3.1]
 !brave://settings/shields/filters
-*pinku*$document
+*pinku*
+*carrot*

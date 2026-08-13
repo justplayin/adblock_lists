@@ -1,1 +1,3 @@
-*pinku*
+*gamble*$document
+*town*$document
+*carrot*$document

@@ -1,2 +1,2 @@
 [Adblock Plus 3.1]
-*carrot*$document
+*carrot*

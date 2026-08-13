@@ -1,3 +1,2 @@
-*gamble*$document
-*town*$document
+[Adblock Plus 3.1]
 *carrot*$document

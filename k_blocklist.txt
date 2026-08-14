@@ -1,6 +1,7 @@
 [Adblock Plus 3.1]
 !brave://settings/shields/filters
-adult movies
+--||archive.org^$document*slavery*
+--||archive.org^$document*adult movies*
 adult films
 adult VHS
 bdsm

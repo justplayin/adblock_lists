@@ -1,4 +1,32 @@
 [Adblock Plus 3.1]
 !brave://settings/shields/filters
-*pinku*
-*carrot*
+adult movies
+adult films
+adult VHS
+bdsm
+bondage
+boobs and butts
+booty
+fetish
+hentai
+Infold pte
+insatiable
+JAV37 --> JAV[0-9]{2}+
+masturbating
+mondo bizarro
+nikkatsu
+NSFW
+orgasm
+orgasmic
+pink films
+pinku
+pinku-eiga
+porn
+pornography
+sadism
+sex doll
+sexploitation
+slave girls
+soft porn
+spanking
+yumika
